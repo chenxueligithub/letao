@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/*定义一个变量*/
+.box {
+  color: red;
+}
+div {
+  color: red;
+}
+a:hover {
+  color: red;
+}
+.wjs {
+  display: block;
+  color: blue;
+  /*需要连接的时候用&符号连接*/
+}
+.wjs .banner {
+  padding: 10px 5px;
+  background: blue;
+}
+.wjs:hover {
+  color: yellow;
+}
+.wjs > p {
+  background: hotpink;
+}

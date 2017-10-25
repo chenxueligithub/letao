@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/*定义一个变量*/
+.box {
+  color: red;
+}
+div {
+  color: red;
+}
+a:hover {
+  color: red;
+}

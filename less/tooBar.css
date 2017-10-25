@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.wjs {
+  display: block;
+  color: blue;
+  /*需要连接的时候用&符号连接*/
+}
+.wjs .banner {
+  padding: 10px 5px;
+  background: blue;
+}
+.wjs:hover {
+  color: yellow;
+}
+.wjs > p {
+  background: hotpink;
+}
